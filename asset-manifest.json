@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/discussion-forum/static/css/main.9f951c8b.chunk.css",
+    "main.js": "/discussion-forum/static/js/main.33e23109.chunk.js",
+    "main.js.map": "/discussion-forum/static/js/main.33e23109.chunk.js.map",
+    "runtime-main.js": "/discussion-forum/static/js/runtime-main.97ee714d.js",
+    "runtime-main.js.map": "/discussion-forum/static/js/runtime-main.97ee714d.js.map",
+    "static/js/2.8a4bfd8d.chunk.js": "/discussion-forum/static/js/2.8a4bfd8d.chunk.js",
+    "static/js/2.8a4bfd8d.chunk.js.map": "/discussion-forum/static/js/2.8a4bfd8d.chunk.js.map",
+    "static/js/3.7c5e487f.chunk.js": "/discussion-forum/static/js/3.7c5e487f.chunk.js",
+    "static/js/3.7c5e487f.chunk.js.map": "/discussion-forum/static/js/3.7c5e487f.chunk.js.map",
+    "index.html": "/discussion-forum/index.html",
+    "static/css/main.9f951c8b.chunk.css.map": "/discussion-forum/static/css/main.9f951c8b.chunk.css.map",
+    "static/js/2.8a4bfd8d.chunk.js.LICENSE.txt": "/discussion-forum/static/js/2.8a4bfd8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97ee714d.js",
+    "static/js/2.8a4bfd8d.chunk.js",
+    "static/css/main.9f951c8b.chunk.css",
+    "static/js/main.33e23109.chunk.js"
+  ]
+}
